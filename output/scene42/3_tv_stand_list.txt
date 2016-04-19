@@ -1,0 +1,17 @@
+./input/tv_stand/centralize_tv_stand_0018.obj	7.2431
+./input/tv_stand/centralize_tv_stand_0015.obj	10.5344
+./input/tv_stand/centralize_tv_stand_0002.obj	10.985
+./input/tv_stand/centralize_tv_stand_0009.obj	12.1181
+./input/tv_stand/centralize_tv_stand_0033.obj	12.1874
+./input/tv_stand/centralize_tv_stand_0011.obj	14.4222
+./input/tv_stand/centralize_tv_stand_0014.obj	14.4349
+./input/tv_stand/centralize_tv_stand_0029.obj	15.8775
+./input/tv_stand/centralize_tv_stand_0020.obj	16.117
+./input/tv_stand/centralize_tv_stand_0007.obj	16.4921
+./input/tv_stand/centralize_tv_stand_0003.obj	16.6263
+./input/tv_stand/centralize_tv_stand_0032.obj	17.112
+./input/tv_stand/centralize_tv_stand_0030.obj	17.5865
+./input/tv_stand/centralize_tv_stand_0024.obj	18.5344
+./input/tv_stand/centralize_tv_stand_0006.obj	19.5296
+./input/tv_stand/centralize_tv_stand_0025.obj	47.1221
+./input/tv_stand/centralize_tv_stand_0031.obj	49.8617

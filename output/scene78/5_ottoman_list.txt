@@ -1,0 +1,2 @@
+./input/ottoman/85a8fa447231a4fe2d19175e7d19b7cb.obj	22.5446
+./input/ottoman/f98615e51a596fc5c05575120a46cd3b.obj	24.2688

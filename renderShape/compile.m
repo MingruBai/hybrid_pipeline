@@ -1,0 +1,1 @@
+mex RenderMex.cpp -lGLU -lOSMesa -lGL -I/opt/X11/include/ -L/opt/X11/lib/

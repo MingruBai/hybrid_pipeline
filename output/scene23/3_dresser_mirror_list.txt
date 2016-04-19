@@ -1,0 +1,8 @@
+./input/dresser_mirror/6bf0f5e06cb748bb9671c58246946ed6.obj	28.1413
+./input/dresser_mirror/3931068c10d0a606ef37b256c10c21e4.obj	31.053
+./input/dresser_mirror/91ac5c074c7d137762646c8cd54d58b4.obj	32.6635
+./input/dresser_mirror/4b2e20535d3ecd016b7154919b02cbec.obj	37.0682
+./input/dresser_mirror/c54828598efd80d78542f96306060db4.obj	41.8698
+./input/dresser_mirror/6336b5516cc8bd50635469b95109803c.obj	42.5512
+./input/dresser_mirror/cb4234b5106ee84dfba786d6c256035b.obj	46.2564
+./input/dresser_mirror/9c87e3b439c20e177f1513678f5ee92.obj	50.9942
